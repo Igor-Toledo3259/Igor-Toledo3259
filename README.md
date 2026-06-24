@@ -7,7 +7,7 @@
 ## 👋 Sobre mim
 
 Me chamo Igor de Oliveira Toledo, tenho 18 anos e sou natural de Mogi Guaçu, São Paulo.  
-Concluí o ensino médio na Escola Estadual Capitão Agenor de Carvalho, com foco na área de Exatas.  
+Concluí o ensino médio na Escola Estadual Capitão Agenor de Carvalho.  
 Atualmente, estou cursando Engenharia da Computação.
 
 Sou apaixonado por tecnologia, programação e desenvolvimento de projetos, sempre buscando evoluir minhas habilidades e aprender novas ferramentas.
