@@ -12,7 +12,7 @@ Atualmente, estou cursando Engenharia da Computação.
 
 Sou apaixonado por tecnologia, programação e desenvolvimento de projetos, sempre buscando evoluir minhas habilidades e aprender novas ferramentas.
 
-Possuo conhecimento básico de inglês.
+Possuo conhecimento intermediário de inglês.
 ---
 
 ## 🎯 Objetivo
